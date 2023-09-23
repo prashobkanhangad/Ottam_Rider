@@ -1,0 +1,98 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/MacData/Ottam/riderApp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-3/9f00ed34e6b48150722520e2ec5100ad/transformed/jetified-checkout-1.6.34/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,93",
+                        "endLines": "2,13",
+                        "endColumns": "37,12",
+                        "endOffsets": "88,745"
+                    },
+                    "to": {
+                        "startLines": "2,29",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1699",
+                        "endLines": "2,39",
+                        "endColumns": "37,12",
+                        "endOffsets": "88,2351"
+                    }
+                },
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-3/c2b41e6ed74f0067c1680fcd955f2d05/transformed/material-1.9.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,553,617,673,732,795",
+                        "endLines": "2,3,4,5,6,7,9,10,11,12,13,17",
+                        "endColumns": "59,69,70,71,57,57,10,63,55,58,62,10",
+                        "endOffsets": "110,180,251,323,381,439,548,612,668,727,790,962"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17,18,20,22,23,26,40",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "695,755,825,896,968,1026,1084,1193,1306,1362,1522,2356",
+                        "endLines": "12,13,14,15,16,17,19,20,22,23,26,43",
+                        "endColumns": "59,69,70,71,57,57,10,63,55,58,62,10",
+                        "endOffsets": "750,820,891,963,1021,1079,1188,1252,1357,1416,1580,2523"
+                    }
+                },
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-3/d6260b491711a05c46bb6c8e701d9b19/transformed/jetified-cardinalmobilesdk-2.2.7-2/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,104,155,205,261",
+                        "endColumns": "48,50,49,55,57",
+                        "endOffsets": "99,150,200,256,314"
+                    },
+                    "to": {
+                        "startLines": "21,24,25,27,28",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1257,1421,1472,1585,1641",
+                        "endColumns": "48,50,49,55,57",
+                        "endOffsets": "1301,1467,1517,1636,1694"
+                    }
+                },
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-3/5238d3c25fddca3d4525c1ba9e5c4ddf/transformed/jetified-paymentsheet-20.28.3/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "93",
+                        "endColumns": "45",
+                        "endOffsets": "134"
+                    }
+                },
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-3/8215127da3c3edc192829d43908ab0d5/transformed/appcompat-1.6.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "139,208,277,347,421,497,556,627",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "203,272,342,416,492,551,622,690"
+                    }
+                }
+            ]
+        }
+    ]
+}

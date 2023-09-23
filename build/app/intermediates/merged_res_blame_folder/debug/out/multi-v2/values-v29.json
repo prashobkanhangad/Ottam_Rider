@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/MacData/Ottam/riderApp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-3/789d82f6e58865e39af91520f2109d16/transformed/jetified-ui-9.2.1/res/values-v29/values-v29.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "40",
+                        "endColumns": "12",
+                        "endOffsets": "2092"
+                    }
+                }
+            ]
+        }
+    ]
+}

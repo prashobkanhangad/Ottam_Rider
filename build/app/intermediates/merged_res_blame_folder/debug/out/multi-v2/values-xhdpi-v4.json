@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/MacData/Ottam/riderApp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-3/fd99420ca818b92806bd78544601b3b4/transformed/jetified-carddrawer-2.18.0/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,171,227,280,338,418,499,557,612,668,725,796",
+                        "endColumns": "60,54,55,52,57,79,80,57,54,55,56,70,71",
+                        "endOffsets": "111,166,222,275,333,413,494,552,607,663,720,791,863"
+                    }
+                },
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-3/8fc852b74b8ab5c31ddafe37a3905f09/transformed/jetified-payments-core-20.28.3/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "868",
+                        "endColumns": "63",
+                        "endOffsets": "927"
+                    }
+                }
+            ]
+        }
+    ]
+}
